@@ -1,0 +1,4 @@
+#Mon Sep 23 00:35:05 IST 2024
+base.0=/Users/ajmal/Development/Flutter_Development/RS_ProductApp_Assignment/RS-ProductApplication/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
