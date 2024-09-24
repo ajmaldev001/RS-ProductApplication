@@ -2,10 +2,28 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "_flutterfire_internals",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/_flutterfire_internals-1.3.25",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/args-2.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "async",
       "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
+    },
+    {
+      "name": "badges",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/badges-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "boolean_selector",
@@ -26,6 +44,24 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "cloud_firestore",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cloud_firestore_platform_interface",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/cloud_firestore_platform_interface-6.1.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cloud_firestore_web",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.10.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "collection",
       "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/collection-1.18.0",
       "packageUri": "lib/",
@@ -44,6 +80,42 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "firebase_auth",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/firebase_auth-4.17.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/firebase_auth_platform_interface-7.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/firebase_auth_web-5.9.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/firebase_core-2.27.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/firebase_core_platform_interface-5.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/firebase_core_web-2.11.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/ajmal/Developer/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -56,10 +128,46 @@
       "languageVersion": "2.19"
     },
     {
+      "name": "flutter_svg",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/flutter_svg-2.0.10+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/ajmal/Developer/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.2"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/ajmal/Developer/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "get_it",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/get_it-8.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/http-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "lints",
@@ -86,8 +194,38 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/petitparser-6.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/provider-6.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -134,6 +272,30 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "typed_data",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/vector_graphics-1.1.11+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.1.11+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.1.11+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -146,13 +308,19 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///Users/ajmal/.pub-cache/hosted/pub.dev/xml-6.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "rs_productapp_project",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-09-22T19:00:09.408831Z",
+  "generated": "2024-09-24T09:54:38.944405Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }

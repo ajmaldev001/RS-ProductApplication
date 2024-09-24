@@ -1,30 +1,46 @@
 [
     {
-        "merged": "com.example.rs_productapp_project.app-merged_res-11:/drawable_launch_background.xml.flat",
-        "source": "com.example.rs_productapp_project.app-main-5:/drawable/launch_background.xml"
+        "merged": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-merged_res-16:/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-main-9:/drawable-v21/launch_background.xml"
     },
     {
-        "merged": "com.example.rs_productapp_project.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.rs_productapp_project.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.example.rs_productapp_project.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.rs_productapp_project.app-main-9:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.rs_productapp_project.app-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.rs_productapp_project.app-main-5:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.example.rs_productapp_project.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.rs_productapp_project.app-main-9:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.rs_productapp_project.app-merged_res-11:/drawable-v21_launch_background.xml.flat",
-        "source": "com.example.rs_productapp_project.app-main-5:/drawable-v21/launch_background.xml"
+        "merged": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-main-9:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.rs_productapp_project.app-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.example.rs_productapp_project.app-main-5:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.example.rs_productapp_project.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.rs_productapp_project.app-main-9:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.rs_productapp_project.app-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.rs_productapp_project.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.example.rs_productapp_project.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.rs_productapp_project.app-main-9:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.rs_productapp_project.app-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.rs_productapp_project.app-main-5:/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-main-9:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.rs_productapp_project.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.rs_productapp_project.app-main-9:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-main-9:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-main-9:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ajmal/.gradle/daemon/7.5/com.example.rs_productapp_project.app-main-9:/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

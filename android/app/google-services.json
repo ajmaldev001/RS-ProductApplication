@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069243964527",
+    "project_id": "rs-productapp",
+    "storage_bucket": "rs-productapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069243964527:android:d448fc73c7d73e490ec19a",
+        "android_client_info": {
+          "package_name": "com.example.rs_productapp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmin0elGlOvVw0ZdoVe-5zEz1imiO_X0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
